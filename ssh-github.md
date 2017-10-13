@@ -32,3 +32,7 @@ Transforme ton remote en ssh
 	git remote -v
 
 Vérifie que le job est bien fait
+
+	git tranquil ça va ?
+
+Commande très puissante
